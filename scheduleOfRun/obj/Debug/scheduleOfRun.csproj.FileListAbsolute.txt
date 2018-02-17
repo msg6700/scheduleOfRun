@@ -1,0 +1,623 @@
+G:\c#\scheduleOfRun\scheduleOfRun\bin\Debug\scheduleOfRun.exe.config
+G:\c#\scheduleOfRun\scheduleOfRun\bin\Debug\scheduleOfRun.exe
+G:\c#\scheduleOfRun\scheduleOfRun\bin\Debug\scheduleOfRun.pdb
+G:\c#\scheduleOfRun\scheduleOfRun\obj\Debug\scheduleOfRun.csprojResolveAssemblyReference.cache
+G:\c#\scheduleOfRun\scheduleOfRun\obj\Debug\scheduleOfRun.WellcomeScreen.resources
+G:\c#\scheduleOfRun\scheduleOfRun\obj\Debug\scheduleOfRun.Properties.Resources.resources
+G:\c#\scheduleOfRun\scheduleOfRun\obj\Debug\scheduleOfRun.csproj.GenerateResource.Cache
+G:\c#\scheduleOfRun\scheduleOfRun\obj\Debug\scheduleOfRun.csproj.CoreCompileInputs.cache
+G:\c#\scheduleOfRun\scheduleOfRun\obj\Debug\scheduleOfRun.exe
+G:\c#\scheduleOfRun\scheduleOfRun\obj\Debug\scheduleOfRun.pdb
+G:\c#\scheduleOfRun\scheduleOfRun\obj\Debug\scheduleOfRun.MainForm.resources
+G:\c#\scheduleOfRun\scheduleOfRun\obj\Debug\scheduleOfRun.Forms.RegisterForm.resources
+G:\c#\scheduleOfRun\scheduleOfRun\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\scheduleOfRun\bin\Debug\scheduleOfRun.exe.config
+C:\Users\Administrator\Desktop\scheduleOfRun\scheduleOfRun\bin\Debug\scheduleOfRun.exe
+C:\Users\Administrator\Desktop\scheduleOfRun\scheduleOfRun\bin\Debug\scheduleOfRun.pdb
+C:\Users\Administrator\Desktop\scheduleOfRun\scheduleOfRun\bin\Debug\DevExpress.Data.v17.1.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\scheduleOfRun\bin\Debug\DevExpress.Images.v17.1.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\scheduleOfRun\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\scheduleOfRun\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\scheduleOfRun\bin\Debug\DevExpress.Utils.v17.1.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\scheduleOfRun\bin\Debug\DevExpress.XtraBars.v17.1.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\scheduleOfRun\bin\Debug\DevExpress.XtraEditors.v17.1.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\scheduleOfRun\bin\Debug\DevExpress.XtraGrid.v17.1.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\scheduleOfRun\bin\Debug\DevExpress.XtraPrinting.v17.1.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\scheduleOfRun\bin\Debug\DevExpress.XtraScheduler.v17.1.Core.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\scheduleOfRun\bin\Debug\DevExpress.XtraScheduler.v17.1.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\scheduleOfRun\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\scheduleOfRun\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\scheduleOfRun\bin\Debug\DevExpress.XtraLayout.v17.1.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\scheduleOfRun\bin\Debug\DevExpress.RichEdit.v17.1.Core.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\scheduleOfRun\bin\Debug\DevExpress.XtraTreeList.v17.1.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\scheduleOfRun\bin\Debug\DevExpress.Office.v17.1.Core.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\scheduleOfRun\bin\Debug\DevExpress.Data.v17.1.xml
+C:\Users\Administrator\Desktop\scheduleOfRun\scheduleOfRun\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+C:\Users\Administrator\Desktop\scheduleOfRun\scheduleOfRun\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+C:\Users\Administrator\Desktop\scheduleOfRun\scheduleOfRun\bin\Debug\DevExpress.Utils.v17.1.xml
+C:\Users\Administrator\Desktop\scheduleOfRun\scheduleOfRun\bin\Debug\DevExpress.XtraBars.v17.1.xml
+C:\Users\Administrator\Desktop\scheduleOfRun\scheduleOfRun\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+C:\Users\Administrator\Desktop\scheduleOfRun\scheduleOfRun\bin\Debug\DevExpress.XtraGrid.v17.1.xml
+C:\Users\Administrator\Desktop\scheduleOfRun\scheduleOfRun\bin\Debug\DevExpress.XtraPrinting.v17.1.xml
+C:\Users\Administrator\Desktop\scheduleOfRun\scheduleOfRun\bin\Debug\DevExpress.XtraScheduler.v17.1.xml
+C:\Users\Administrator\Desktop\scheduleOfRun\scheduleOfRun\bin\Debug\DevExpress.XtraScheduler.v17.1.Core.xml
+C:\Users\Administrator\Desktop\scheduleOfRun\scheduleOfRun\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+C:\Users\Administrator\Desktop\scheduleOfRun\scheduleOfRun\bin\Debug\DevExpress.XtraLayout.v17.1.xml
+C:\Users\Administrator\Desktop\scheduleOfRun\scheduleOfRun\bin\Debug\DevExpress.RichEdit.v17.1.Core.xml
+C:\Users\Administrator\Desktop\scheduleOfRun\scheduleOfRun\bin\Debug\DevExpress.XtraTreeList.v17.1.xml
+C:\Users\Administrator\Desktop\scheduleOfRun\scheduleOfRun\bin\Debug\DevExpress.Office.v17.1.Core.xml
+C:\Users\Administrator\Desktop\scheduleOfRun\scheduleOfRun\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\scheduleOfRun\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\scheduleOfRun\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\scheduleOfRun\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\scheduleOfRun\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\scheduleOfRun\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\scheduleOfRun\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\scheduleOfRun\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\scheduleOfRun\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\scheduleOfRun\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\scheduleOfRun\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\scheduleOfRun\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\scheduleOfRun\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\scheduleOfRun\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\scheduleOfRun\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\scheduleOfRun\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\scheduleOfRun\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\scheduleOfRun\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\scheduleOfRun\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\scheduleOfRun\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\scheduleOfRun\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\scheduleOfRun\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\scheduleOfRun\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\scheduleOfRun\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\scheduleOfRun\bin\Debug\de\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\scheduleOfRun\bin\Debug\es\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\scheduleOfRun\bin\Debug\ja\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\scheduleOfRun\bin\Debug\ru\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\scheduleOfRun\bin\Debug\de\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\scheduleOfRun\bin\Debug\es\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\scheduleOfRun\bin\Debug\ja\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\scheduleOfRun\bin\Debug\ru\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\scheduleOfRun\bin\Debug\de\DevExpress.XtraScheduler.v17.1.resources.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\scheduleOfRun\bin\Debug\es\DevExpress.XtraScheduler.v17.1.resources.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\scheduleOfRun\bin\Debug\ja\DevExpress.XtraScheduler.v17.1.resources.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\scheduleOfRun\bin\Debug\ru\DevExpress.XtraScheduler.v17.1.resources.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\scheduleOfRun\bin\Debug\de\DevExpress.XtraScheduler.v17.1.Core.resources.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\scheduleOfRun\bin\Debug\es\DevExpress.XtraScheduler.v17.1.Core.resources.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\scheduleOfRun\bin\Debug\ja\DevExpress.XtraScheduler.v17.1.Core.resources.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\scheduleOfRun\bin\Debug\ru\DevExpress.XtraScheduler.v17.1.Core.resources.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\scheduleOfRun\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\scheduleOfRun\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\scheduleOfRun\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\scheduleOfRun\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\scheduleOfRun\bin\Debug\de\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\scheduleOfRun\bin\Debug\es\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\scheduleOfRun\bin\Debug\ja\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\scheduleOfRun\bin\Debug\ru\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\scheduleOfRun\bin\Debug\de\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\scheduleOfRun\bin\Debug\es\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\scheduleOfRun\bin\Debug\ja\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\scheduleOfRun\bin\Debug\ru\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\scheduleOfRun\bin\Debug\de\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\scheduleOfRun\bin\Debug\es\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\scheduleOfRun\bin\Debug\ja\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\scheduleOfRun\bin\Debug\ru\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\scheduleOfRun\bin\Debug\de\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\scheduleOfRun\bin\Debug\es\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\scheduleOfRun\bin\Debug\ja\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\scheduleOfRun\bin\Debug\ru\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\scheduleOfRun\obj\Debug\scheduleOfRun.Forms.EditForm.resources
+C:\Users\Administrator\Desktop\scheduleOfRun\scheduleOfRun\obj\Debug\scheduleOfRun.MainForm.resources
+C:\Users\Administrator\Desktop\scheduleOfRun\scheduleOfRun\obj\Debug\scheduleOfRun.Forms.RegisterForm.resources
+C:\Users\Administrator\Desktop\scheduleOfRun\scheduleOfRun\obj\Debug\scheduleOfRun.Forms.RunsList.resources
+C:\Users\Administrator\Desktop\scheduleOfRun\scheduleOfRun\obj\Debug\scheduleOfRun.Forms.TotalUsedDay.resources
+C:\Users\Administrator\Desktop\scheduleOfRun\scheduleOfRun\obj\Debug\scheduleOfRun.WellcomeScreen.resources
+C:\Users\Administrator\Desktop\scheduleOfRun\scheduleOfRun\obj\Debug\scheduleOfRun.Properties.Resources.resources
+C:\Users\Administrator\Desktop\scheduleOfRun\scheduleOfRun\obj\Debug\scheduleOfRun.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\scheduleOfRun\scheduleOfRun\obj\Debug\scheduleOfRun.exe.licenses
+C:\Users\Administrator\Desktop\scheduleOfRun\scheduleOfRun\obj\Debug\scheduleOfRun.exe
+C:\Users\Administrator\Desktop\scheduleOfRun\scheduleOfRun\obj\Debug\scheduleOfRun.pdb
+F:\scheduleOfRun\scheduleOfRun\bin\Debug\scheduleOfRun.exe.config
+F:\scheduleOfRun\scheduleOfRun\bin\Debug\scheduleOfRun.exe
+F:\scheduleOfRun\scheduleOfRun\bin\Debug\scheduleOfRun.pdb
+F:\scheduleOfRun\scheduleOfRun\bin\Debug\System.Data.SqlServerCe.dll
+F:\scheduleOfRun\scheduleOfRun\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+F:\scheduleOfRun\scheduleOfRun\bin\Debug\DevExpress.XtraLayout.v17.1.dll
+F:\scheduleOfRun\scheduleOfRun\bin\Debug\DevExpress.RichEdit.v17.1.Core.dll
+F:\scheduleOfRun\scheduleOfRun\bin\Debug\DevExpress.XtraTreeList.v17.1.dll
+F:\scheduleOfRun\scheduleOfRun\bin\Debug\DevExpress.Office.v17.1.Core.dll
+F:\scheduleOfRun\scheduleOfRun\bin\Debug\DevExpress.Data.v17.1.xml
+F:\scheduleOfRun\scheduleOfRun\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+F:\scheduleOfRun\scheduleOfRun\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+F:\scheduleOfRun\scheduleOfRun\bin\Debug\DevExpress.Utils.v17.1.xml
+F:\scheduleOfRun\scheduleOfRun\bin\Debug\DevExpress.XtraBars.v17.1.xml
+F:\scheduleOfRun\scheduleOfRun\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+F:\scheduleOfRun\scheduleOfRun\bin\Debug\DevExpress.XtraGrid.v17.1.xml
+F:\scheduleOfRun\scheduleOfRun\bin\Debug\DevExpress.XtraPrinting.v17.1.xml
+F:\scheduleOfRun\scheduleOfRun\bin\Debug\DevExpress.XtraScheduler.v17.1.xml
+F:\scheduleOfRun\scheduleOfRun\bin\Debug\DevExpress.XtraScheduler.v17.1.Core.xml
+F:\scheduleOfRun\scheduleOfRun\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+F:\scheduleOfRun\scheduleOfRun\bin\Debug\DevExpress.XtraLayout.v17.1.xml
+F:\scheduleOfRun\scheduleOfRun\bin\Debug\DevExpress.RichEdit.v17.1.Core.xml
+F:\scheduleOfRun\scheduleOfRun\bin\Debug\DevExpress.XtraTreeList.v17.1.xml
+F:\scheduleOfRun\scheduleOfRun\bin\Debug\DevExpress.Office.v17.1.Core.xml
+F:\scheduleOfRun\scheduleOfRun\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+F:\scheduleOfRun\scheduleOfRun\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+F:\scheduleOfRun\scheduleOfRun\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+F:\scheduleOfRun\scheduleOfRun\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+F:\scheduleOfRun\scheduleOfRun\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+F:\scheduleOfRun\scheduleOfRun\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+F:\scheduleOfRun\scheduleOfRun\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+F:\scheduleOfRun\scheduleOfRun\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+F:\scheduleOfRun\scheduleOfRun\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+F:\scheduleOfRun\scheduleOfRun\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+F:\scheduleOfRun\scheduleOfRun\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+F:\scheduleOfRun\scheduleOfRun\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+F:\scheduleOfRun\scheduleOfRun\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+F:\scheduleOfRun\scheduleOfRun\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+F:\scheduleOfRun\scheduleOfRun\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+F:\scheduleOfRun\scheduleOfRun\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+F:\scheduleOfRun\scheduleOfRun\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+F:\scheduleOfRun\scheduleOfRun\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+F:\scheduleOfRun\scheduleOfRun\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+F:\scheduleOfRun\scheduleOfRun\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+F:\scheduleOfRun\scheduleOfRun\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+F:\scheduleOfRun\scheduleOfRun\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+F:\scheduleOfRun\scheduleOfRun\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+F:\scheduleOfRun\scheduleOfRun\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+F:\scheduleOfRun\scheduleOfRun\bin\Debug\de\DevExpress.XtraGrid.v17.1.resources.dll
+F:\scheduleOfRun\scheduleOfRun\bin\Debug\es\DevExpress.XtraGrid.v17.1.resources.dll
+F:\scheduleOfRun\scheduleOfRun\bin\Debug\ja\DevExpress.XtraGrid.v17.1.resources.dll
+F:\scheduleOfRun\scheduleOfRun\bin\Debug\ru\DevExpress.XtraGrid.v17.1.resources.dll
+F:\scheduleOfRun\scheduleOfRun\bin\Debug\de\DevExpress.XtraPrinting.v17.1.resources.dll
+F:\scheduleOfRun\scheduleOfRun\bin\Debug\es\DevExpress.XtraPrinting.v17.1.resources.dll
+F:\scheduleOfRun\scheduleOfRun\bin\Debug\ja\DevExpress.XtraPrinting.v17.1.resources.dll
+F:\scheduleOfRun\scheduleOfRun\bin\Debug\ru\DevExpress.XtraPrinting.v17.1.resources.dll
+F:\scheduleOfRun\scheduleOfRun\bin\Debug\de\DevExpress.XtraScheduler.v17.1.resources.dll
+F:\scheduleOfRun\scheduleOfRun\bin\Debug\es\DevExpress.XtraScheduler.v17.1.resources.dll
+F:\scheduleOfRun\scheduleOfRun\bin\Debug\ja\DevExpress.XtraScheduler.v17.1.resources.dll
+F:\scheduleOfRun\scheduleOfRun\bin\Debug\ru\DevExpress.XtraScheduler.v17.1.resources.dll
+F:\scheduleOfRun\scheduleOfRun\bin\Debug\de\DevExpress.XtraScheduler.v17.1.Core.resources.dll
+F:\scheduleOfRun\scheduleOfRun\bin\Debug\es\DevExpress.XtraScheduler.v17.1.Core.resources.dll
+F:\scheduleOfRun\scheduleOfRun\bin\Debug\ja\DevExpress.XtraScheduler.v17.1.Core.resources.dll
+F:\scheduleOfRun\scheduleOfRun\bin\Debug\ru\DevExpress.XtraScheduler.v17.1.Core.resources.dll
+F:\scheduleOfRun\scheduleOfRun\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+F:\scheduleOfRun\scheduleOfRun\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+F:\scheduleOfRun\scheduleOfRun\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+F:\scheduleOfRun\scheduleOfRun\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+F:\scheduleOfRun\scheduleOfRun\bin\Debug\de\DevExpress.XtraLayout.v17.1.resources.dll
+F:\scheduleOfRun\scheduleOfRun\bin\Debug\es\DevExpress.XtraLayout.v17.1.resources.dll
+F:\scheduleOfRun\scheduleOfRun\bin\Debug\ja\DevExpress.XtraLayout.v17.1.resources.dll
+F:\scheduleOfRun\scheduleOfRun\bin\Debug\ru\DevExpress.XtraLayout.v17.1.resources.dll
+F:\scheduleOfRun\scheduleOfRun\bin\Debug\de\DevExpress.RichEdit.v17.1.Core.resources.dll
+F:\scheduleOfRun\scheduleOfRun\bin\Debug\es\DevExpress.RichEdit.v17.1.Core.resources.dll
+F:\scheduleOfRun\scheduleOfRun\bin\Debug\ja\DevExpress.RichEdit.v17.1.Core.resources.dll
+F:\scheduleOfRun\scheduleOfRun\bin\Debug\ru\DevExpress.RichEdit.v17.1.Core.resources.dll
+F:\scheduleOfRun\scheduleOfRun\bin\Debug\de\DevExpress.XtraTreeList.v17.1.resources.dll
+F:\scheduleOfRun\scheduleOfRun\bin\Debug\es\DevExpress.XtraTreeList.v17.1.resources.dll
+F:\scheduleOfRun\scheduleOfRun\bin\Debug\ja\DevExpress.XtraTreeList.v17.1.resources.dll
+F:\scheduleOfRun\scheduleOfRun\bin\Debug\ru\DevExpress.XtraTreeList.v17.1.resources.dll
+F:\scheduleOfRun\scheduleOfRun\bin\Debug\de\DevExpress.Office.v17.1.Core.resources.dll
+F:\scheduleOfRun\scheduleOfRun\bin\Debug\es\DevExpress.Office.v17.1.Core.resources.dll
+F:\scheduleOfRun\scheduleOfRun\bin\Debug\ja\DevExpress.Office.v17.1.Core.resources.dll
+F:\scheduleOfRun\scheduleOfRun\bin\Debug\ru\DevExpress.Office.v17.1.Core.resources.dll
+F:\scheduleOfRun\scheduleOfRun\obj\Debug\scheduleOfRun.csprojResolveAssemblyReference.cache
+F:\scheduleOfRun\scheduleOfRun\obj\Debug\scheduleOfRun.Forms.EditForm.resources
+F:\scheduleOfRun\scheduleOfRun\obj\Debug\scheduleOfRun.MainForm.resources
+F:\scheduleOfRun\scheduleOfRun\obj\Debug\scheduleOfRun.Forms.RegisterForm.resources
+F:\scheduleOfRun\scheduleOfRun\obj\Debug\scheduleOfRun.Forms.RunsList.resources
+F:\scheduleOfRun\scheduleOfRun\obj\Debug\scheduleOfRun.Forms.TotalUsedDay.resources
+F:\scheduleOfRun\scheduleOfRun\obj\Debug\scheduleOfRun.WellcomeScreen.resources
+F:\scheduleOfRun\scheduleOfRun\obj\Debug\scheduleOfRun.Properties.Resources.resources
+F:\scheduleOfRun\scheduleOfRun\obj\Debug\scheduleOfRun.csproj.GenerateResource.Cache
+F:\scheduleOfRun\scheduleOfRun\obj\Debug\scheduleOfRun.exe.licenses
+F:\scheduleOfRun\scheduleOfRun\obj\Debug\scheduleOfRun.csproj.CoreCompileInputs.cache
+F:\scheduleOfRun\scheduleOfRun\obj\Debug\scheduleOfRun.exe
+F:\scheduleOfRun\scheduleOfRun\obj\Debug\scheduleOfRun.pdb
+C:\Users\m&h\Desktop\c#\work project\scheduleOfRun\scheduleOfRun\bin\Debug\scheduleOfRun.exe.config
+C:\Users\m&h\Desktop\c#\work project\scheduleOfRun\scheduleOfRun\bin\Debug\scheduleOfRun.exe
+C:\Users\m&h\Desktop\c#\work project\scheduleOfRun\scheduleOfRun\bin\Debug\scheduleOfRun.pdb
+C:\Users\m&h\Desktop\c#\work project\scheduleOfRun\scheduleOfRun\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\m&h\Desktop\c#\work project\scheduleOfRun\scheduleOfRun\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+C:\Users\m&h\Desktop\c#\work project\scheduleOfRun\scheduleOfRun\bin\Debug\DevExpress.XtraLayout.v17.1.dll
+C:\Users\m&h\Desktop\c#\work project\scheduleOfRun\scheduleOfRun\bin\Debug\DevExpress.RichEdit.v17.1.Core.dll
+C:\Users\m&h\Desktop\c#\work project\scheduleOfRun\scheduleOfRun\bin\Debug\DevExpress.XtraTreeList.v17.1.dll
+C:\Users\m&h\Desktop\c#\work project\scheduleOfRun\scheduleOfRun\bin\Debug\DevExpress.Office.v17.1.Core.dll
+C:\Users\m&h\Desktop\c#\work project\scheduleOfRun\scheduleOfRun\bin\Debug\DevExpress.Data.v17.1.xml
+C:\Users\m&h\Desktop\c#\work project\scheduleOfRun\scheduleOfRun\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+C:\Users\m&h\Desktop\c#\work project\scheduleOfRun\scheduleOfRun\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+C:\Users\m&h\Desktop\c#\work project\scheduleOfRun\scheduleOfRun\bin\Debug\DevExpress.Utils.v17.1.xml
+C:\Users\m&h\Desktop\c#\work project\scheduleOfRun\scheduleOfRun\bin\Debug\DevExpress.XtraBars.v17.1.xml
+C:\Users\m&h\Desktop\c#\work project\scheduleOfRun\scheduleOfRun\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+C:\Users\m&h\Desktop\c#\work project\scheduleOfRun\scheduleOfRun\bin\Debug\DevExpress.XtraGrid.v17.1.xml
+C:\Users\m&h\Desktop\c#\work project\scheduleOfRun\scheduleOfRun\bin\Debug\DevExpress.XtraPrinting.v17.1.xml
+C:\Users\m&h\Desktop\c#\work project\scheduleOfRun\scheduleOfRun\bin\Debug\DevExpress.XtraScheduler.v17.1.xml
+C:\Users\m&h\Desktop\c#\work project\scheduleOfRun\scheduleOfRun\bin\Debug\DevExpress.XtraScheduler.v17.1.Core.xml
+C:\Users\m&h\Desktop\c#\work project\scheduleOfRun\scheduleOfRun\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+C:\Users\m&h\Desktop\c#\work project\scheduleOfRun\scheduleOfRun\bin\Debug\DevExpress.XtraLayout.v17.1.xml
+C:\Users\m&h\Desktop\c#\work project\scheduleOfRun\scheduleOfRun\bin\Debug\DevExpress.RichEdit.v17.1.Core.xml
+C:\Users\m&h\Desktop\c#\work project\scheduleOfRun\scheduleOfRun\bin\Debug\DevExpress.XtraTreeList.v17.1.xml
+C:\Users\m&h\Desktop\c#\work project\scheduleOfRun\scheduleOfRun\bin\Debug\DevExpress.Office.v17.1.Core.xml
+C:\Users\m&h\Desktop\c#\work project\scheduleOfRun\scheduleOfRun\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+C:\Users\m&h\Desktop\c#\work project\scheduleOfRun\scheduleOfRun\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+C:\Users\m&h\Desktop\c#\work project\scheduleOfRun\scheduleOfRun\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+C:\Users\m&h\Desktop\c#\work project\scheduleOfRun\scheduleOfRun\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+C:\Users\m&h\Desktop\c#\work project\scheduleOfRun\scheduleOfRun\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\m&h\Desktop\c#\work project\scheduleOfRun\scheduleOfRun\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\m&h\Desktop\c#\work project\scheduleOfRun\scheduleOfRun\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\m&h\Desktop\c#\work project\scheduleOfRun\scheduleOfRun\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\m&h\Desktop\c#\work project\scheduleOfRun\scheduleOfRun\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\m&h\Desktop\c#\work project\scheduleOfRun\scheduleOfRun\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\m&h\Desktop\c#\work project\scheduleOfRun\scheduleOfRun\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\m&h\Desktop\c#\work project\scheduleOfRun\scheduleOfRun\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\m&h\Desktop\c#\work project\scheduleOfRun\scheduleOfRun\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+C:\Users\m&h\Desktop\c#\work project\scheduleOfRun\scheduleOfRun\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+C:\Users\m&h\Desktop\c#\work project\scheduleOfRun\scheduleOfRun\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+C:\Users\m&h\Desktop\c#\work project\scheduleOfRun\scheduleOfRun\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+C:\Users\m&h\Desktop\c#\work project\scheduleOfRun\scheduleOfRun\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\m&h\Desktop\c#\work project\scheduleOfRun\scheduleOfRun\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\m&h\Desktop\c#\work project\scheduleOfRun\scheduleOfRun\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\m&h\Desktop\c#\work project\scheduleOfRun\scheduleOfRun\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\m&h\Desktop\c#\work project\scheduleOfRun\scheduleOfRun\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\m&h\Desktop\c#\work project\scheduleOfRun\scheduleOfRun\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\m&h\Desktop\c#\work project\scheduleOfRun\scheduleOfRun\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\m&h\Desktop\c#\work project\scheduleOfRun\scheduleOfRun\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\m&h\Desktop\c#\work project\scheduleOfRun\scheduleOfRun\bin\Debug\de\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\m&h\Desktop\c#\work project\scheduleOfRun\scheduleOfRun\bin\Debug\es\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\m&h\Desktop\c#\work project\scheduleOfRun\scheduleOfRun\bin\Debug\ja\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\m&h\Desktop\c#\work project\scheduleOfRun\scheduleOfRun\bin\Debug\ru\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\m&h\Desktop\c#\work project\scheduleOfRun\scheduleOfRun\bin\Debug\de\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\m&h\Desktop\c#\work project\scheduleOfRun\scheduleOfRun\bin\Debug\es\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\m&h\Desktop\c#\work project\scheduleOfRun\scheduleOfRun\bin\Debug\ja\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\m&h\Desktop\c#\work project\scheduleOfRun\scheduleOfRun\bin\Debug\ru\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\m&h\Desktop\c#\work project\scheduleOfRun\scheduleOfRun\bin\Debug\de\DevExpress.XtraScheduler.v17.1.resources.dll
+C:\Users\m&h\Desktop\c#\work project\scheduleOfRun\scheduleOfRun\bin\Debug\es\DevExpress.XtraScheduler.v17.1.resources.dll
+C:\Users\m&h\Desktop\c#\work project\scheduleOfRun\scheduleOfRun\bin\Debug\ja\DevExpress.XtraScheduler.v17.1.resources.dll
+C:\Users\m&h\Desktop\c#\work project\scheduleOfRun\scheduleOfRun\bin\Debug\ru\DevExpress.XtraScheduler.v17.1.resources.dll
+C:\Users\m&h\Desktop\c#\work project\scheduleOfRun\scheduleOfRun\bin\Debug\de\DevExpress.XtraScheduler.v17.1.Core.resources.dll
+C:\Users\m&h\Desktop\c#\work project\scheduleOfRun\scheduleOfRun\bin\Debug\es\DevExpress.XtraScheduler.v17.1.Core.resources.dll
+C:\Users\m&h\Desktop\c#\work project\scheduleOfRun\scheduleOfRun\bin\Debug\ja\DevExpress.XtraScheduler.v17.1.Core.resources.dll
+C:\Users\m&h\Desktop\c#\work project\scheduleOfRun\scheduleOfRun\bin\Debug\ru\DevExpress.XtraScheduler.v17.1.Core.resources.dll
+C:\Users\m&h\Desktop\c#\work project\scheduleOfRun\scheduleOfRun\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\m&h\Desktop\c#\work project\scheduleOfRun\scheduleOfRun\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\m&h\Desktop\c#\work project\scheduleOfRun\scheduleOfRun\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\m&h\Desktop\c#\work project\scheduleOfRun\scheduleOfRun\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\m&h\Desktop\c#\work project\scheduleOfRun\scheduleOfRun\bin\Debug\de\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\m&h\Desktop\c#\work project\scheduleOfRun\scheduleOfRun\bin\Debug\es\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\m&h\Desktop\c#\work project\scheduleOfRun\scheduleOfRun\bin\Debug\ja\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\m&h\Desktop\c#\work project\scheduleOfRun\scheduleOfRun\bin\Debug\ru\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\m&h\Desktop\c#\work project\scheduleOfRun\scheduleOfRun\bin\Debug\de\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\m&h\Desktop\c#\work project\scheduleOfRun\scheduleOfRun\bin\Debug\es\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\m&h\Desktop\c#\work project\scheduleOfRun\scheduleOfRun\bin\Debug\ja\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\m&h\Desktop\c#\work project\scheduleOfRun\scheduleOfRun\bin\Debug\ru\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\m&h\Desktop\c#\work project\scheduleOfRun\scheduleOfRun\bin\Debug\de\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\m&h\Desktop\c#\work project\scheduleOfRun\scheduleOfRun\bin\Debug\es\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\m&h\Desktop\c#\work project\scheduleOfRun\scheduleOfRun\bin\Debug\ja\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\m&h\Desktop\c#\work project\scheduleOfRun\scheduleOfRun\bin\Debug\ru\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\m&h\Desktop\c#\work project\scheduleOfRun\scheduleOfRun\bin\Debug\de\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\m&h\Desktop\c#\work project\scheduleOfRun\scheduleOfRun\bin\Debug\es\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\m&h\Desktop\c#\work project\scheduleOfRun\scheduleOfRun\bin\Debug\ja\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\m&h\Desktop\c#\work project\scheduleOfRun\scheduleOfRun\bin\Debug\ru\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\m&h\Desktop\c#\work project\scheduleOfRun\scheduleOfRun\obj\Debug\scheduleOfRun.csprojResolveAssemblyReference.cache
+C:\Users\m&h\Desktop\c#\work project\scheduleOfRun\scheduleOfRun\obj\Debug\scheduleOfRun.Forms.EditForm.resources
+C:\Users\m&h\Desktop\c#\work project\scheduleOfRun\scheduleOfRun\obj\Debug\scheduleOfRun.MainForm.resources
+C:\Users\m&h\Desktop\c#\work project\scheduleOfRun\scheduleOfRun\obj\Debug\scheduleOfRun.Forms.RegisterForm.resources
+C:\Users\m&h\Desktop\c#\work project\scheduleOfRun\scheduleOfRun\obj\Debug\scheduleOfRun.Forms.RunsList.resources
+C:\Users\m&h\Desktop\c#\work project\scheduleOfRun\scheduleOfRun\obj\Debug\scheduleOfRun.Forms.TotalUsedDay.resources
+C:\Users\m&h\Desktop\c#\work project\scheduleOfRun\scheduleOfRun\obj\Debug\scheduleOfRun.WellcomeScreen.resources
+C:\Users\m&h\Desktop\c#\work project\scheduleOfRun\scheduleOfRun\obj\Debug\scheduleOfRun.Properties.Resources.resources
+C:\Users\m&h\Desktop\c#\work project\scheduleOfRun\scheduleOfRun\obj\Debug\scheduleOfRun.csproj.GenerateResource.Cache
+C:\Users\m&h\Desktop\c#\work project\scheduleOfRun\scheduleOfRun\obj\Debug\scheduleOfRun.exe.licenses
+C:\Users\m&h\Desktop\c#\work project\scheduleOfRun\scheduleOfRun\obj\Debug\scheduleOfRun.csproj.CoreCompileInputs.cache
+C:\Users\m&h\Desktop\c#\work project\scheduleOfRun\scheduleOfRun\obj\Debug\scheduleOfRun.exe
+C:\Users\m&h\Desktop\c#\work project\scheduleOfRun\scheduleOfRun\obj\Debug\scheduleOfRun.pdb
+C:\Users\Administrator\Desktop\scheduleOfRun\work project\scheduleOfRun\scheduleOfRun\bin\Debug\scheduleOfRun.exe.config
+C:\Users\Administrator\Desktop\scheduleOfRun\work project\scheduleOfRun\scheduleOfRun\bin\Debug\scheduleOfRun.exe
+C:\Users\Administrator\Desktop\scheduleOfRun\work project\scheduleOfRun\scheduleOfRun\bin\Debug\scheduleOfRun.pdb
+C:\Users\Administrator\Desktop\scheduleOfRun\work project\scheduleOfRun\scheduleOfRun\bin\Debug\DevExpress.Data.v17.1.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\work project\scheduleOfRun\scheduleOfRun\bin\Debug\DevExpress.Images.v17.1.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\work project\scheduleOfRun\scheduleOfRun\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\work project\scheduleOfRun\scheduleOfRun\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\work project\scheduleOfRun\scheduleOfRun\bin\Debug\DevExpress.Utils.v17.1.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\work project\scheduleOfRun\scheduleOfRun\bin\Debug\DevExpress.XtraBars.v17.1.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\work project\scheduleOfRun\scheduleOfRun\bin\Debug\DevExpress.XtraEditors.v17.1.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\work project\scheduleOfRun\scheduleOfRun\bin\Debug\DevExpress.XtraGrid.v17.1.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\work project\scheduleOfRun\scheduleOfRun\bin\Debug\DevExpress.XtraPrinting.v17.1.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\work project\scheduleOfRun\scheduleOfRun\bin\Debug\DevExpress.XtraScheduler.v17.1.Core.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\work project\scheduleOfRun\scheduleOfRun\bin\Debug\DevExpress.XtraScheduler.v17.1.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\work project\scheduleOfRun\scheduleOfRun\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\work project\scheduleOfRun\scheduleOfRun\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\work project\scheduleOfRun\scheduleOfRun\bin\Debug\DevExpress.XtraLayout.v17.1.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\work project\scheduleOfRun\scheduleOfRun\bin\Debug\DevExpress.RichEdit.v17.1.Core.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\work project\scheduleOfRun\scheduleOfRun\bin\Debug\DevExpress.XtraTreeList.v17.1.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\work project\scheduleOfRun\scheduleOfRun\bin\Debug\DevExpress.Office.v17.1.Core.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\work project\scheduleOfRun\scheduleOfRun\bin\Debug\DevExpress.Data.v17.1.xml
+C:\Users\Administrator\Desktop\scheduleOfRun\work project\scheduleOfRun\scheduleOfRun\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+C:\Users\Administrator\Desktop\scheduleOfRun\work project\scheduleOfRun\scheduleOfRun\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+C:\Users\Administrator\Desktop\scheduleOfRun\work project\scheduleOfRun\scheduleOfRun\bin\Debug\DevExpress.Utils.v17.1.xml
+C:\Users\Administrator\Desktop\scheduleOfRun\work project\scheduleOfRun\scheduleOfRun\bin\Debug\DevExpress.XtraBars.v17.1.xml
+C:\Users\Administrator\Desktop\scheduleOfRun\work project\scheduleOfRun\scheduleOfRun\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+C:\Users\Administrator\Desktop\scheduleOfRun\work project\scheduleOfRun\scheduleOfRun\bin\Debug\DevExpress.XtraGrid.v17.1.xml
+C:\Users\Administrator\Desktop\scheduleOfRun\work project\scheduleOfRun\scheduleOfRun\bin\Debug\DevExpress.XtraPrinting.v17.1.xml
+C:\Users\Administrator\Desktop\scheduleOfRun\work project\scheduleOfRun\scheduleOfRun\bin\Debug\DevExpress.XtraScheduler.v17.1.xml
+C:\Users\Administrator\Desktop\scheduleOfRun\work project\scheduleOfRun\scheduleOfRun\bin\Debug\DevExpress.XtraScheduler.v17.1.Core.xml
+C:\Users\Administrator\Desktop\scheduleOfRun\work project\scheduleOfRun\scheduleOfRun\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+C:\Users\Administrator\Desktop\scheduleOfRun\work project\scheduleOfRun\scheduleOfRun\bin\Debug\DevExpress.XtraLayout.v17.1.xml
+C:\Users\Administrator\Desktop\scheduleOfRun\work project\scheduleOfRun\scheduleOfRun\bin\Debug\DevExpress.RichEdit.v17.1.Core.xml
+C:\Users\Administrator\Desktop\scheduleOfRun\work project\scheduleOfRun\scheduleOfRun\bin\Debug\DevExpress.XtraTreeList.v17.1.xml
+C:\Users\Administrator\Desktop\scheduleOfRun\work project\scheduleOfRun\scheduleOfRun\bin\Debug\DevExpress.Office.v17.1.Core.xml
+C:\Users\Administrator\Desktop\scheduleOfRun\work project\scheduleOfRun\scheduleOfRun\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\work project\scheduleOfRun\scheduleOfRun\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\work project\scheduleOfRun\scheduleOfRun\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\work project\scheduleOfRun\scheduleOfRun\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\work project\scheduleOfRun\scheduleOfRun\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\work project\scheduleOfRun\scheduleOfRun\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\work project\scheduleOfRun\scheduleOfRun\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\work project\scheduleOfRun\scheduleOfRun\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\work project\scheduleOfRun\scheduleOfRun\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\work project\scheduleOfRun\scheduleOfRun\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\work project\scheduleOfRun\scheduleOfRun\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\work project\scheduleOfRun\scheduleOfRun\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\work project\scheduleOfRun\scheduleOfRun\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\work project\scheduleOfRun\scheduleOfRun\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\work project\scheduleOfRun\scheduleOfRun\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\work project\scheduleOfRun\scheduleOfRun\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\work project\scheduleOfRun\scheduleOfRun\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\work project\scheduleOfRun\scheduleOfRun\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\work project\scheduleOfRun\scheduleOfRun\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\work project\scheduleOfRun\scheduleOfRun\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\work project\scheduleOfRun\scheduleOfRun\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\work project\scheduleOfRun\scheduleOfRun\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\work project\scheduleOfRun\scheduleOfRun\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\work project\scheduleOfRun\scheduleOfRun\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\work project\scheduleOfRun\scheduleOfRun\bin\Debug\de\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\work project\scheduleOfRun\scheduleOfRun\bin\Debug\es\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\work project\scheduleOfRun\scheduleOfRun\bin\Debug\ja\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\work project\scheduleOfRun\scheduleOfRun\bin\Debug\ru\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\work project\scheduleOfRun\scheduleOfRun\bin\Debug\de\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\work project\scheduleOfRun\scheduleOfRun\bin\Debug\es\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\work project\scheduleOfRun\scheduleOfRun\bin\Debug\ja\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\work project\scheduleOfRun\scheduleOfRun\bin\Debug\ru\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\work project\scheduleOfRun\scheduleOfRun\bin\Debug\de\DevExpress.XtraScheduler.v17.1.resources.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\work project\scheduleOfRun\scheduleOfRun\bin\Debug\es\DevExpress.XtraScheduler.v17.1.resources.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\work project\scheduleOfRun\scheduleOfRun\bin\Debug\ja\DevExpress.XtraScheduler.v17.1.resources.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\work project\scheduleOfRun\scheduleOfRun\bin\Debug\ru\DevExpress.XtraScheduler.v17.1.resources.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\work project\scheduleOfRun\scheduleOfRun\bin\Debug\de\DevExpress.XtraScheduler.v17.1.Core.resources.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\work project\scheduleOfRun\scheduleOfRun\bin\Debug\es\DevExpress.XtraScheduler.v17.1.Core.resources.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\work project\scheduleOfRun\scheduleOfRun\bin\Debug\ja\DevExpress.XtraScheduler.v17.1.Core.resources.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\work project\scheduleOfRun\scheduleOfRun\bin\Debug\ru\DevExpress.XtraScheduler.v17.1.Core.resources.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\work project\scheduleOfRun\scheduleOfRun\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\work project\scheduleOfRun\scheduleOfRun\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\work project\scheduleOfRun\scheduleOfRun\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\work project\scheduleOfRun\scheduleOfRun\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\work project\scheduleOfRun\scheduleOfRun\bin\Debug\de\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\work project\scheduleOfRun\scheduleOfRun\bin\Debug\es\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\work project\scheduleOfRun\scheduleOfRun\bin\Debug\ja\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\work project\scheduleOfRun\scheduleOfRun\bin\Debug\ru\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\work project\scheduleOfRun\scheduleOfRun\bin\Debug\de\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\work project\scheduleOfRun\scheduleOfRun\bin\Debug\es\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\work project\scheduleOfRun\scheduleOfRun\bin\Debug\ja\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\work project\scheduleOfRun\scheduleOfRun\bin\Debug\ru\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\work project\scheduleOfRun\scheduleOfRun\bin\Debug\de\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\work project\scheduleOfRun\scheduleOfRun\bin\Debug\es\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\work project\scheduleOfRun\scheduleOfRun\bin\Debug\ja\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\work project\scheduleOfRun\scheduleOfRun\bin\Debug\ru\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\work project\scheduleOfRun\scheduleOfRun\bin\Debug\de\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\work project\scheduleOfRun\scheduleOfRun\bin\Debug\es\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\work project\scheduleOfRun\scheduleOfRun\bin\Debug\ja\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\work project\scheduleOfRun\scheduleOfRun\bin\Debug\ru\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\Administrator\Desktop\scheduleOfRun\work project\scheduleOfRun\scheduleOfRun\obj\Debug\scheduleOfRun.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\scheduleOfRun\work project\scheduleOfRun\scheduleOfRun\obj\Debug\scheduleOfRun.Forms.EditForm.resources
+C:\Users\Administrator\Desktop\scheduleOfRun\work project\scheduleOfRun\scheduleOfRun\obj\Debug\scheduleOfRun.MainForm.resources
+C:\Users\Administrator\Desktop\scheduleOfRun\work project\scheduleOfRun\scheduleOfRun\obj\Debug\scheduleOfRun.Forms.RegisterForm.resources
+C:\Users\Administrator\Desktop\scheduleOfRun\work project\scheduleOfRun\scheduleOfRun\obj\Debug\scheduleOfRun.Forms.RunsList.resources
+C:\Users\Administrator\Desktop\scheduleOfRun\work project\scheduleOfRun\scheduleOfRun\obj\Debug\scheduleOfRun.Forms.SystemList.resources
+C:\Users\Administrator\Desktop\scheduleOfRun\work project\scheduleOfRun\scheduleOfRun\obj\Debug\scheduleOfRun.WellcomeScreen.resources
+C:\Users\Administrator\Desktop\scheduleOfRun\work project\scheduleOfRun\scheduleOfRun\obj\Debug\scheduleOfRun.Properties.Resources.resources
+C:\Users\Administrator\Desktop\scheduleOfRun\work project\scheduleOfRun\scheduleOfRun\obj\Debug\scheduleOfRun.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\scheduleOfRun\work project\scheduleOfRun\scheduleOfRun\obj\Debug\scheduleOfRun.exe.licenses
+C:\Users\Administrator\Desktop\scheduleOfRun\work project\scheduleOfRun\scheduleOfRun\obj\Debug\scheduleOfRun.exe
+C:\Users\Administrator\Desktop\scheduleOfRun\work project\scheduleOfRun\scheduleOfRun\obj\Debug\scheduleOfRun.pdb
+H:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\scheduleOfRun.exe.config
+H:\work project\scheduleOfRun\scheduleOfRun\obj\Debug\scheduleOfRun.exe
+H:\work project\scheduleOfRun\scheduleOfRun\obj\Debug\scheduleOfRun.pdb
+H:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\scheduleOfRun.exe
+H:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\scheduleOfRun.pdb
+H:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\System.Data.SqlServerCe.dll
+H:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+H:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\DevExpress.XtraLayout.v17.1.dll
+H:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\DevExpress.RichEdit.v17.1.Core.dll
+H:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\DevExpress.XtraTreeList.v17.1.dll
+H:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\DevExpress.Office.v17.1.Core.dll
+H:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\DevExpress.Data.v17.1.xml
+H:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+H:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+H:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\DevExpress.Utils.v17.1.xml
+H:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\DevExpress.XtraBars.v17.1.xml
+H:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+H:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\DevExpress.XtraGrid.v17.1.xml
+H:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\DevExpress.XtraPrinting.v17.1.xml
+H:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\DevExpress.XtraScheduler.v17.1.xml
+H:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\DevExpress.XtraScheduler.v17.1.Core.xml
+H:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+H:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\DevExpress.XtraLayout.v17.1.xml
+H:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\DevExpress.RichEdit.v17.1.Core.xml
+H:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\DevExpress.XtraTreeList.v17.1.xml
+H:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\DevExpress.Office.v17.1.Core.xml
+H:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+H:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+H:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+H:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+H:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+H:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+H:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+H:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+H:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+H:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+H:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+H:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+H:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+H:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+H:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+H:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+H:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+H:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+H:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+H:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+H:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+H:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+H:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+H:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+H:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\de\DevExpress.XtraGrid.v17.1.resources.dll
+H:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\es\DevExpress.XtraGrid.v17.1.resources.dll
+H:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\ja\DevExpress.XtraGrid.v17.1.resources.dll
+H:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\ru\DevExpress.XtraGrid.v17.1.resources.dll
+H:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\de\DevExpress.XtraPrinting.v17.1.resources.dll
+H:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\es\DevExpress.XtraPrinting.v17.1.resources.dll
+H:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\ja\DevExpress.XtraPrinting.v17.1.resources.dll
+H:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\ru\DevExpress.XtraPrinting.v17.1.resources.dll
+H:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\de\DevExpress.XtraScheduler.v17.1.resources.dll
+H:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\es\DevExpress.XtraScheduler.v17.1.resources.dll
+H:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\ja\DevExpress.XtraScheduler.v17.1.resources.dll
+H:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\ru\DevExpress.XtraScheduler.v17.1.resources.dll
+H:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\de\DevExpress.XtraScheduler.v17.1.Core.resources.dll
+H:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\es\DevExpress.XtraScheduler.v17.1.Core.resources.dll
+H:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\ja\DevExpress.XtraScheduler.v17.1.Core.resources.dll
+H:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\ru\DevExpress.XtraScheduler.v17.1.Core.resources.dll
+H:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+H:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+H:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+H:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+H:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\de\DevExpress.XtraLayout.v17.1.resources.dll
+H:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\es\DevExpress.XtraLayout.v17.1.resources.dll
+H:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\ja\DevExpress.XtraLayout.v17.1.resources.dll
+H:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\ru\DevExpress.XtraLayout.v17.1.resources.dll
+H:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\de\DevExpress.RichEdit.v17.1.Core.resources.dll
+H:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\es\DevExpress.RichEdit.v17.1.Core.resources.dll
+H:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\ja\DevExpress.RichEdit.v17.1.Core.resources.dll
+H:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\ru\DevExpress.RichEdit.v17.1.Core.resources.dll
+H:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\de\DevExpress.XtraTreeList.v17.1.resources.dll
+H:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\es\DevExpress.XtraTreeList.v17.1.resources.dll
+H:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\ja\DevExpress.XtraTreeList.v17.1.resources.dll
+H:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\ru\DevExpress.XtraTreeList.v17.1.resources.dll
+H:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\de\DevExpress.Office.v17.1.Core.resources.dll
+H:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\es\DevExpress.Office.v17.1.Core.resources.dll
+H:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\ja\DevExpress.Office.v17.1.Core.resources.dll
+H:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\ru\DevExpress.Office.v17.1.Core.resources.dll
+H:\work project\scheduleOfRun\scheduleOfRun\obj\Debug\scheduleOfRun.csprojResolveAssemblyReference.cache
+H:\work project\scheduleOfRun\scheduleOfRun\obj\Debug\scheduleOfRun.Forms.EditForm.resources
+H:\work project\scheduleOfRun\scheduleOfRun\obj\Debug\scheduleOfRun.MainForm.resources
+H:\work project\scheduleOfRun\scheduleOfRun\obj\Debug\scheduleOfRun.Forms.RegisterForm.resources
+H:\work project\scheduleOfRun\scheduleOfRun\obj\Debug\scheduleOfRun.Forms.RunsList.resources
+H:\work project\scheduleOfRun\scheduleOfRun\obj\Debug\scheduleOfRun.Forms.SystemList.resources
+H:\work project\scheduleOfRun\scheduleOfRun\obj\Debug\scheduleOfRun.WellcomeScreen.resources
+H:\work project\scheduleOfRun\scheduleOfRun\obj\Debug\scheduleOfRun.Properties.Resources.resources
+H:\work project\scheduleOfRun\scheduleOfRun\obj\Debug\scheduleOfRun.csproj.GenerateResource.Cache
+H:\work project\scheduleOfRun\scheduleOfRun\obj\Debug\scheduleOfRun.exe.licenses
+I:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\scheduleOfRun.exe.config
+I:\work project\scheduleOfRun\scheduleOfRun\obj\Debug\scheduleOfRun.exe
+I:\work project\scheduleOfRun\scheduleOfRun\obj\Debug\scheduleOfRun.pdb
+I:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\scheduleOfRun.exe
+I:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\scheduleOfRun.pdb
+I:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\DevExpress.Data.v17.1.dll
+I:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\DevExpress.Images.v17.1.dll
+I:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+I:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+I:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\DevExpress.Utils.v17.1.dll
+I:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\DevExpress.XtraBars.v17.1.dll
+I:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\DevExpress.XtraEditors.v17.1.dll
+I:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\DevExpress.XtraGrid.v17.1.dll
+I:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\DevExpress.XtraPrinting.v17.1.dll
+I:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\DevExpress.XtraScheduler.v17.1.Core.dll
+I:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\DevExpress.XtraScheduler.v17.1.dll
+I:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\System.Data.SqlServerCe.dll
+I:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+I:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\DevExpress.XtraLayout.v17.1.dll
+I:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\DevExpress.RichEdit.v17.1.Core.dll
+I:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\DevExpress.XtraTreeList.v17.1.dll
+I:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\DevExpress.Office.v17.1.Core.dll
+I:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\DevExpress.Data.v17.1.xml
+I:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+I:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+I:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\DevExpress.Utils.v17.1.xml
+I:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\DevExpress.XtraBars.v17.1.xml
+I:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+I:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\DevExpress.XtraGrid.v17.1.xml
+I:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\DevExpress.XtraPrinting.v17.1.xml
+I:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\DevExpress.XtraScheduler.v17.1.xml
+I:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\DevExpress.XtraScheduler.v17.1.Core.xml
+I:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+I:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\DevExpress.XtraLayout.v17.1.xml
+I:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\DevExpress.RichEdit.v17.1.Core.xml
+I:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\DevExpress.XtraTreeList.v17.1.xml
+I:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\DevExpress.Office.v17.1.Core.xml
+I:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+I:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+I:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+I:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+I:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+I:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+I:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+I:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+I:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+I:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+I:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+I:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+I:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+I:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+I:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+I:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+I:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+I:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+I:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+I:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+I:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+I:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+I:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+I:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+I:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\de\DevExpress.XtraGrid.v17.1.resources.dll
+I:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\es\DevExpress.XtraGrid.v17.1.resources.dll
+I:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\ja\DevExpress.XtraGrid.v17.1.resources.dll
+I:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\ru\DevExpress.XtraGrid.v17.1.resources.dll
+I:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\de\DevExpress.XtraPrinting.v17.1.resources.dll
+I:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\es\DevExpress.XtraPrinting.v17.1.resources.dll
+I:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\ja\DevExpress.XtraPrinting.v17.1.resources.dll
+I:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\ru\DevExpress.XtraPrinting.v17.1.resources.dll
+I:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\de\DevExpress.XtraScheduler.v17.1.resources.dll
+I:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\es\DevExpress.XtraScheduler.v17.1.resources.dll
+I:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\ja\DevExpress.XtraScheduler.v17.1.resources.dll
+I:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\ru\DevExpress.XtraScheduler.v17.1.resources.dll
+I:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\de\DevExpress.XtraScheduler.v17.1.Core.resources.dll
+I:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\es\DevExpress.XtraScheduler.v17.1.Core.resources.dll
+I:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\ja\DevExpress.XtraScheduler.v17.1.Core.resources.dll
+I:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\ru\DevExpress.XtraScheduler.v17.1.Core.resources.dll
+I:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+I:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+I:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+I:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+I:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\de\DevExpress.XtraLayout.v17.1.resources.dll
+I:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\es\DevExpress.XtraLayout.v17.1.resources.dll
+I:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\ja\DevExpress.XtraLayout.v17.1.resources.dll
+I:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\ru\DevExpress.XtraLayout.v17.1.resources.dll
+I:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\de\DevExpress.RichEdit.v17.1.Core.resources.dll
+I:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\es\DevExpress.RichEdit.v17.1.Core.resources.dll
+I:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\ja\DevExpress.RichEdit.v17.1.Core.resources.dll
+I:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\ru\DevExpress.RichEdit.v17.1.Core.resources.dll
+I:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\de\DevExpress.XtraTreeList.v17.1.resources.dll
+I:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\es\DevExpress.XtraTreeList.v17.1.resources.dll
+I:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\ja\DevExpress.XtraTreeList.v17.1.resources.dll
+I:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\ru\DevExpress.XtraTreeList.v17.1.resources.dll
+I:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\de\DevExpress.Office.v17.1.Core.resources.dll
+I:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\es\DevExpress.Office.v17.1.Core.resources.dll
+I:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\ja\DevExpress.Office.v17.1.Core.resources.dll
+I:\work project\scheduleOfRun\scheduleOfRun\bin\Debug\ru\DevExpress.Office.v17.1.Core.resources.dll
+I:\work project\scheduleOfRun\scheduleOfRun\obj\Debug\scheduleOfRun.csprojResolveAssemblyReference.cache
+I:\work project\scheduleOfRun\scheduleOfRun\obj\Debug\scheduleOfRun.Forms.EditForm.resources
+I:\work project\scheduleOfRun\scheduleOfRun\obj\Debug\scheduleOfRun.MainForm.resources
+I:\work project\scheduleOfRun\scheduleOfRun\obj\Debug\scheduleOfRun.Forms.RegisterForm.resources
+I:\work project\scheduleOfRun\scheduleOfRun\obj\Debug\scheduleOfRun.Forms.RunsList.resources
+I:\work project\scheduleOfRun\scheduleOfRun\obj\Debug\scheduleOfRun.Forms.SystemList.resources
+I:\work project\scheduleOfRun\scheduleOfRun\obj\Debug\scheduleOfRun.WellcomeScreen.resources
+I:\work project\scheduleOfRun\scheduleOfRun\obj\Debug\scheduleOfRun.Properties.Resources.resources
+I:\work project\scheduleOfRun\scheduleOfRun\obj\Debug\scheduleOfRun.csproj.GenerateResource.Cache
+I:\work project\scheduleOfRun\scheduleOfRun\obj\Debug\scheduleOfRun.exe.licenses
